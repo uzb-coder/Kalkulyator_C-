@@ -1,0 +1,20 @@
+D:\IT(Axborot texnologiyalar)\DASTURLASH TILLARI\Visual C#\Mobilne Xamaring\Darslar\KALKULYATOR\bin\Debug\KALKULYATOR.exe.config
+D:\IT(Axborot texnologiyalar)\DASTURLASH TILLARI\Visual C#\Mobilne Xamaring\Darslar\KALKULYATOR\bin\Debug\KALKULYATOR.exe
+D:\IT(Axborot texnologiyalar)\DASTURLASH TILLARI\Visual C#\Mobilne Xamaring\Darslar\KALKULYATOR\bin\Debug\KALKULYATOR.pdb
+D:\IT(Axborot texnologiyalar)\DASTURLASH TILLARI\Visual C#\Mobilne Xamaring\Darslar\KALKULYATOR\obj\Debug\KALKULYATOR.csproj.AssemblyReference.cache
+D:\IT(Axborot texnologiyalar)\DASTURLASH TILLARI\Visual C#\Mobilne Xamaring\Darslar\KALKULYATOR\obj\Debug\KALKULYATOR.Form1.resources
+D:\IT(Axborot texnologiyalar)\DASTURLASH TILLARI\Visual C#\Mobilne Xamaring\Darslar\KALKULYATOR\obj\Debug\KALKULYATOR.Properties.Resources.resources
+D:\IT(Axborot texnologiyalar)\DASTURLASH TILLARI\Visual C#\Mobilne Xamaring\Darslar\KALKULYATOR\obj\Debug\KALKULYATOR.csproj.GenerateResource.cache
+D:\IT(Axborot texnologiyalar)\DASTURLASH TILLARI\Visual C#\Mobilne Xamaring\Darslar\KALKULYATOR\obj\Debug\KALKULYATOR.csproj.CoreCompileInputs.cache
+D:\IT(Axborot texnologiyalar)\DASTURLASH TILLARI\Visual C#\Mobilne Xamaring\Darslar\KALKULYATOR\obj\Debug\KALKULYATOR.exe
+D:\IT(Axborot texnologiyalar)\DASTURLASH TILLARI\Visual C#\Mobilne Xamaring\Darslar\KALKULYATOR\obj\Debug\KALKULYATOR.pdb
+D:\IT(Axborot texnologiyalar)\DASTURLASH TILLARI\Visual C#\Loyhalar\KALKULYATOR\bin\Debug\KALKULYATOR.exe.config
+D:\IT(Axborot texnologiyalar)\DASTURLASH TILLARI\Visual C#\Loyhalar\KALKULYATOR\bin\Debug\KALKULYATOR.exe
+D:\IT(Axborot texnologiyalar)\DASTURLASH TILLARI\Visual C#\Loyhalar\KALKULYATOR\bin\Debug\KALKULYATOR.pdb
+D:\IT(Axborot texnologiyalar)\DASTURLASH TILLARI\Visual C#\Loyhalar\KALKULYATOR\obj\Debug\KALKULYATOR.csproj.AssemblyReference.cache
+D:\IT(Axborot texnologiyalar)\DASTURLASH TILLARI\Visual C#\Loyhalar\KALKULYATOR\obj\Debug\KALKULYATOR.Form1.resources
+D:\IT(Axborot texnologiyalar)\DASTURLASH TILLARI\Visual C#\Loyhalar\KALKULYATOR\obj\Debug\KALKULYATOR.Properties.Resources.resources
+D:\IT(Axborot texnologiyalar)\DASTURLASH TILLARI\Visual C#\Loyhalar\KALKULYATOR\obj\Debug\KALKULYATOR.csproj.GenerateResource.cache
+D:\IT(Axborot texnologiyalar)\DASTURLASH TILLARI\Visual C#\Loyhalar\KALKULYATOR\obj\Debug\KALKULYATOR.csproj.CoreCompileInputs.cache
+D:\IT(Axborot texnologiyalar)\DASTURLASH TILLARI\Visual C#\Loyhalar\KALKULYATOR\obj\Debug\KALKULYATOR.exe
+D:\IT(Axborot texnologiyalar)\DASTURLASH TILLARI\Visual C#\Loyhalar\KALKULYATOR\obj\Debug\KALKULYATOR.pdb
